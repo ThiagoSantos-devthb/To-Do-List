@@ -8,7 +8,7 @@ Para esse projeto foram usado Koltin e android studio
  Consiste em uma lista de tarefas onde cadastra-se titulo, data e hora
  
 ## Funcionamento
- Uilizado arquitetura MVVM, recycler view, input calender e input hour
+ Ulizado arquitetura MVVM, recycler view, input calender e input hour
 
  
  <p align="center">
